@@ -1,5 +1,3 @@
-[TOCM]
-
 # 함형길
 
 현업에 뛰어든지 10년차인 개발자이며, 도전하는 것을 즐거워하고, 모든 일에 자신감으로 임하려고 노력하며, 한번 일을 시작하면 끝을 봐야 직성이 풀리는 강한 책임감을 가비고 있습니다. 또한 어떤 일이든지 현실에 안주하지 않고 좀 더 발전적인 방향으로 나아가길 좋아합니다. 또한 새로운 기술도 열정적으로 받아들이며, 최근 수행한 업무에서 대부분 처음 접한기술들을 소화하며 개발팀을 이끌었고, 성공적으로 서비스를 운영중입니다.
@@ -35,28 +33,36 @@
 > (주)더존비즈온 > 모바일개발팀(팀장)
 
 - Technical Lead
-    React-Native(TypeScript, junit, Objective-C, Java)
-    Redux pattern(redux-observable)
-    Cache(SQLite, Typeorm)
-    Security(Proguard, Rooting guard, RSA, AES)
-    Dependency managment(yarn, pods, gradle, python script )
-    CI/CD(Gitlab, FastLine)
+
+1. React-Native(TypeScript, junit, Objective-C, Java)
+
+   Redux pattern(redux-observable)
+   Cache(SQLite, Typeorm)
+   Security(Proguard, Rooting guard, RSA, AES)
+   Dependency managment(yarn, pods, gradle, python script )
+   CI/CD(Gitlab, FastLine)
+
 - Attachment
-    채팅 서비스 개발(계약대화/개인대화)
-    음성/화상 서비스 적용(Jitsi-Meet Library)
-    소상공인 DID SDK연동(NativeModules),
-    개인 DID 연동(SKT 이니셜 AppToApp)
-    본인부인방지 모듈 제작(NICE 인증, PIN, FIDO)
+
+  채팅 서비스 개발(계약대화/개인대화)
+  음성/화상 서비스 적용(Jitsi-Meet Library)
+  소상공인 DID SDK연동(NativeModules),
+  개인 DID 연동(SKT 이니셜 AppToApp)
+  본인부인방지 모듈 제작(NICE 인증, PIN, FIDO)
+
 - Project Lead
-    개발프로세스: JIRA를 통한 이력 및 일정관리
-    문서화: Confluence(WiKi) 활용
-    Communication: 위하고(더존플렛폼)를 통한 팀 대화, Slack을 통한 외부 업체 대화
-    보고서: 일일 보고서, 주간 보고서, 월간 보고서
-    회의: 업무협의회의(기획팀, 디자인팀, 백엔드팀, 데브옵스팀), 월간 일정 회의
+
+  개발프로세스: JIRA를 통한 이력 및 일정관리
+  문서화: Confluence(WiKi) 활용
+  Communication: 위하고(더존플렛폼)를 통한 팀 대화, Slack을 통한 외부 업체 대화
+  보고서: 일일 보고서, 주간 보고서, 월간 보고서
+  회의: 업무협의회의(기획팀, 디자인팀, 백엔드팀, 데브옵스팀), 월간 일정 회의
+
 - People Managment
-    React-Native/Redux pattern/Redux-observable 교육
-    Reactive Progreamming 교육
-    정기적 conferrence 운영
+
+  React-Native/Redux pattern/Redux-observable 교육
+  Reactive Progreamming 교육
+  정기적 conferrence 운영
 
 # 대학프로젝트
 
