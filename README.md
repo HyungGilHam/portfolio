@@ -34,35 +34,42 @@
 
 - Technical Lead
 
-1. React-Native(TypeScript, junit, Objective-C, Java)
-
-   Redux pattern(redux-observable)
-   Cache(SQLite, Typeorm)
-   Security(Proguard, Rooting guard, RSA, AES)
-   Dependency managment(yarn, pods, gradle, python script )
-   CI/CD(Gitlab, FastLine)
+```sh
+  React-Native(TypeScript, junit, Objective-C, Java)
+  Redux pattern(redux-observable)
+  Cache(SQLite, Typeorm)
+  Security(Proguard, Rooting guard, RSA, AES)
+  Dependency managment(yarn, pods, gradle, python script )
+  CI/CD(Gitlab, FastLine)
+```
 
 - Attachment
 
+```sh
   채팅 서비스 개발(계약대화/개인대화)
   음성/화상 서비스 적용(Jitsi-Meet Library)
   소상공인 DID SDK연동(NativeModules),
   개인 DID 연동(SKT 이니셜 AppToApp)
   본인부인방지 모듈 제작(NICE 인증, PIN, FIDO)
+```
 
 - Project Lead
 
+```sh
   개발프로세스: JIRA를 통한 이력 및 일정관리
   문서화: Confluence(WiKi) 활용
   Communication: 위하고(더존플렛폼)를 통한 팀 대화, Slack을 통한 외부 업체 대화
   보고서: 일일 보고서, 주간 보고서, 월간 보고서
   회의: 업무협의회의(기획팀, 디자인팀, 백엔드팀, 데브옵스팀), 월간 일정 회의
+```
 
 - People Managment
 
+```sh
   React-Native/Redux pattern/Redux-observable 교육
   Reactive Progreamming 교육
   정기적 conferrence 운영
+```
 
 # 대학프로젝트
 
