@@ -109,46 +109,6 @@
   정기적 conferrence 운영
 ```
 
-### 위하고 iOS 앱(B to B 협업) 유지보수/고도화
-
-> 개발기간 : 2019.05 ~ 진행중
-> (주)더존비즈온 > 모바일개발팀(팀장)
-
-- Technical Lead
-
-```sh
-  iOS(Swift4,5)
-  Mvvm pattern(RxSwift, RxCocoa, xcode templates)
-  Cache(SQLite, FMDB)
-  Network(Alamofire, SwiftyJSON, Codable, CocoaMqtt)
-  Security(CryptoSwift, RSA, AES)
-  Dependency managment(pods)
-  CI/CD(Gitlab, FastLine)
-```
-
-- Attachment
-
-```sh
-  채팅서비스 멘션 기능 추가
-  채팅서비스 읽음 처리 기능 추가
-  채팅서비스 캐싱처리(SQLite)
-  조직도 서비스 캐싱처리(SQLite)
-  수임처관리 서비스 신규 제작
-  청구서 관리 서비스 신규 제작
-  카드매출 서비스 신규 제작
-  로컬라이징처리(영어, 일본어)
-  276개의 레거시 QA Jira 이슈처리
-
-
-```
-
-- People Managment
-
-```sh
-  Mvvm Pattarn 교육
-  정기적 conferrence 운영
-```
-
 ### EOS 기반 게임 개발(DAPP)
 
 > 개발기간 : 2018.09 ~ 2019.1
@@ -291,7 +251,10 @@
 - Attachment
 
 ```sh
-  로그인 Backend 모듈 제작 제작
+  로그인 모듈 제작 제작
+  아이템 모듈 제작
+  게임 플레이 모듈 제작
+  게임 레벨링 리소스 업데이트 시스템 제작
 ```
 
 ### 피트인레이싱 게임 웹서버 제작
@@ -311,7 +274,11 @@
 - Attachment
 
 ```sh
-  로그인 Backend 모듈 제작 제작
+  로그인 모듈 제작 제작
+  아이템 모듈 제작
+  게임 플레이 모듈 제작(일반/랭킹전/팀전)
+  게임 레벨링 리소스 업데이트 시스템 제작
+  랭킹 시스템 제작
 ```
 
 ### 마레다이브 게임 웹서버 제작
@@ -331,7 +298,11 @@
 - Attachment
 
 ```sh
-  로그인 Backend 모듈 제작 제작
+  로그인 모듈 제작 제작
+  아이템 모듈 제작
+  게임 플레이 모듈 제작
+  게임 레벨링 리소스 업데이트 시스템 제작
+  랭킹 시스템 제작
 ```
 
 ### 모두의 빙고 게임 웹서버 제작
@@ -351,7 +322,12 @@
 - Attachment
 
 ```sh
-  로그인 Backend 모듈 제작 제작
+  로그인 모듈 제작 제작
+  아이템 상점 모듈 개발
+  레벨링 스스템 개발
+  매칭 알고리즘 제작
+  랭킹 시스템 제작
+  게임플레이 모듈 제작
 ```
 
 ### 에픽슬롯사가 게임 웹서버 제작
@@ -371,7 +347,14 @@
 - Attachment
 
 ```sh
-  로그인 Backend 모듈 제작 제작
+  로그인 모듈 제작
+  슬롯 게임 모듈 제작
+  랭킹 시스템 모듈 제작
+  레벨 시스템 모듈 제작
+  아이템 상점 모듈 제작
+  퀘스트 모듈 제작
+  리소스 및 스크립트 업데이트 모듈 제작
+  자바스크립트 레벨링 tools 제작
 ```
 
 ### 듣기왕 iOS 모바일 앱 제작
