@@ -71,11 +71,11 @@
   정기적 conferrence 운영
 ```
 <div>
-<img src="./images/screenShot/wehagoOne/wehagoOne0.png" width="150">
-<img src="./images/screenShot/wehagoOne/wehagoOne1.png" width="150">
-<img src="./images/screenShot/wehagoOne/wehagoOne2.png" width="150">
-<img src="./images/screenShot/wehagoOne/wehagoOne3.png" width="150">
-<img src="./images/screenShot/wehagoOne/wehagoOne4.png" width="150">
+<img src="./images/screenShot/wehagoOne/wehagoOne_0.png" width="150">
+<img src="./images/screenShot/wehagoOne/wehagoOne_1.png" width="150">
+<img src="./images/screenShot/wehagoOne/wehagoOne_2.png" width="150">
+<img src="./images/screenShot/wehagoOne/wehagoOne_3.png" width="150">
+<img src="./images/screenShot/wehagoOne/wehagoOne_4.png" width="150">
 </div>
 
 ### 위하고 iOS 앱(B to B 협업) 유지보수/고도화
