@@ -139,7 +139,7 @@
 <img src="./images/screenShot/eosgamez/eosgamez1.png" width="250">
 <img src="./images/screenShot/eosgamez/eosgamez2.png" width="250">
 <img src="./images/screenShot/eosgamez/eosgamez3.png" width="250">
-<img src="./images/screenShot/eosgamez/eosgamez4.png" width="250">
+<!-- <img src="./images/screenShot/eosgamez/eosgamez4.png" width="250"> -->
 </div>
 
 ### 자동매매, 시세차익봇(Py)
@@ -164,8 +164,8 @@
 ```
 <div>
 <img src="./images/screenShot/trading/trading1.png" width="200">
-<img src="./images/screenShot/trading/trading2.png" width="400">
-<img src="./images/screenShot/trading/trading4.png" width="400">
+<img src="./images/screenShot/trading/trading2.png" width="300">
+<img src="./images/screenShot/trading/trading4.png" width="300">
 </div>
 
 ### Ebook iOS 앱 제작(에로가미 전자서적)
