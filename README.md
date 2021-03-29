@@ -136,10 +136,10 @@
   리얼다이스 소켓 게임서버 제작(EOS 블록 hashkey 실시간공유)
 ```
 <div>
-<img src="./images/screenShot/eosgamez/eosgamez1.png" width="300">
-<img src="./images/screenShot/eosgamez/eosgamez2.png" width="300">
-<img src="./images/screenShot/eosgamez/eosgamez3.png" width="300">
-<img src="./images/screenShot/eosgamez/eosgamez4.png" width="300">
+<img src="./images/screenShot/eosgamez/eosgamez1.png" width="250">
+<img src="./images/screenShot/eosgamez/eosgamez2.png" width="250">
+<img src="./images/screenShot/eosgamez/eosgamez3.png" width="250">
+<img src="./images/screenShot/eosgamez/eosgamez4.png" width="250">
 </div>
 
 ### 자동매매, 시세차익봇(Py)
@@ -165,7 +165,7 @@
 <div>
 <img src="./images/screenShot/trading/trading1.png" width="200">
 <img src="./images/screenShot/trading/trading2.png" width="400">
-<img src="./images/screenShot/trading/trading3.png" width="200">
+<img src="./images/screenShot/trading/trading4.png" width="400">
 </div>
 
 ### Ebook iOS 앱 제작(에로가미 전자서적)
@@ -254,9 +254,9 @@
   마사회결과 rss 구독 시스템 제작
 ```
 <div>
-<img src="./images/screenShot/maru/maru1.png" width="300">
-<img src="./images/screenShot/maru/maru2.png" width="300">
-<img src="./images/screenShot/maru/maru3.png" width="300">
+<img src="./images/screenShot/maru/maru1.png" width="250">
+<img src="./images/screenShot/maru/maru2.png" width="250">
+<img src="./images/screenShot/maru/maru3.png" width="250">
 </div>
 
 ### 더비베가스 게임 웹서버 제작(소셜 카지노 게임 - 경마, 슬롯, 빙고, 바카라)
@@ -285,9 +285,9 @@
   게임 분석 로그 시스템 제작
 ```
 <div>
-<img src="./images/screenShot/derbyVegas/derbyVegas1.png" width="300">
-<img src="./images/screenShot/derbyVegas/derbyVegas2.png" width="300">
-<img src="./images/screenShot/derbyVegas/derbyVegas3.png" width="300">
+<img src="./images/screenShot/derbyVegas/derbyVegas1.png" width="250">
+<img src="./images/screenShot/derbyVegas/derbyVegas2.png" width="250">
+<img src="./images/screenShot/derbyVegas/derbyVegas3.png" width="250">
 </div>
 
 ### 태평왕전기 게임 웹서버 제작
@@ -313,9 +313,9 @@
   게임 레벨링 리소스 업데이트 시스템 제작
 ```
 <div>
-<img src="./images/screenShot/tepyung/tepyung1.png" width="300">
-<img src="./images/screenShot/tepyung/tepyung2.png" width="300">
-<img src="./images/screenShot/tepyung/tepyung3.png" width="300">
+<img src="./images/screenShot/tepyung/tepyung1.png" width="250">
+<img src="./images/screenShot/tepyung/tepyung2.png" width="250">
+<img src="./images/screenShot/tepyung/tepyung3.png" width="250">
 </div>
 
 ### 피트인레이싱 게임 웹서버 제작
@@ -342,8 +342,9 @@
   랭킹 시스템 제작
 ```
 <div>
-<img src="./images/screenShot/fitinracing/pitinracing2.png" width="300">
-<img src="./images/screenShot/fitinracing/pitinracing3.png" width="300">
+<img src="./images/screenShot/fitinracing/pitinracing1.png" width="250">
+<img src="./images/screenShot/fitinracing/pitinracing2.png" width="250">
+<img src="./images/screenShot/fitinracing/pitinracing3.png" width="250">
 </div>
 
 ### 마레다이브 게임 웹서버 제작
@@ -370,9 +371,9 @@
   랭킹 시스템 제작
 ```
 <div>
-<img src="./images/screenShot/divedive/divedive1.png" width="300">
-<img src="./images/screenShot/divedive/divedive2.png" width="300">
-<img src="./images/screenShot/divedive/divedive3.png" width="300">
+<img src="./images/screenShot/divedive/divedive1.png" width="250">
+<img src="./images/screenShot/divedive/divedive2.png" width="250">
+<img src="./images/screenShot/divedive/divedive3.png" width="250">
 </div>
 
 ### 모두의 빙고 게임 웹서버 제작
@@ -433,7 +434,7 @@
   자바스크립트 레벨링 tools 제작
 ```
 <div>
-<img src="./images/screenShot/epicslotsaga/epicslotsaga1.png" width="200">
+<!-- <img src="./images/screenShot/epicslotsaga/epicslotsaga1.png" width="200"> -->
 <img src="./images/screenShot/epicslotsaga/epicslotsaga2.png" width="200">
 <img src="./images/screenShot/epicslotsaga/epicslotsaga3.png" width="200">
 <img src="./images/screenShot/epicslotsaga/epicslotsaga4.png" width="200">
