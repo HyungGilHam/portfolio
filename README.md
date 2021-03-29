@@ -189,10 +189,7 @@
   Ebook store연결 및 javascript 처리(WebView)
 ```
 
-<img src="./images/screenShot/erogami/erogami1.png" width="200">
-<img src="./images/screenShot/erogami/erogami2.png" width="200">
-<img src="./images/screenShot/erogami/erogami3.png" width="200">
-<img src="./images/screenShot/erogami/erogami4.png" width="200">
+<img src="./images/screenShot/erogami/erogami1.png" width="200"><img src="./images/screenShot/erogami/erogami2.png" width="200"><img src="./images/screenShot/erogami/erogami3.png" width="200"><img src="./images/screenShot/erogami/erogami4.png" width="200">
 
 ### Ebook iOS 앱 제작(포도원)
 
@@ -557,10 +554,9 @@
   Push notification 기반 채팅 모듈 제작
   방명록 및 평가 모듈 제작
 ```
-<img src="./images/screenShot/givennow/givenNow1.png" width="200">
-<img src="./images/screenShot/givennow/givenNow2.png" width="200">
-<img src="./images/screenShot/givennow/givenNow3.png" width="200">
-<img src="./images/screenShot/givennow/givenNow4.png" width="200">
+<div>
+<img src="./images/screenShot/givennow/givenNow1.png" width="200"><img src="./images/screenShot/givennow/givenNow2.png" width="200"><img src="./images/screenShot/givennow/givenNow3.png" width="200"><img src="./images/screenShot/givennow/givenNow4.png" width="200">
+</div>
 
 # 대학프로젝트
 
