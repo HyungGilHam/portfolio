@@ -478,7 +478,7 @@
   방명록 및 평가 모듈 제작
 ```
 
-![GivenNow1](./images/screenShot/givenNow1.png "GivenNow1")![GivenNow2](./images/screenShot/givenNow2.png "GivenNow2")![GivenNow3](./images/screenShot/givenNow3.png "GivenNow3")![GivenNow4](./images/screenShot/givenNow4.png "GivenNow4")
+![GivenNow1](./images/screenShot/givennow/givenNow1.png "GivenNow1")![GivenNow2](./images/screenShot/givennow/givenNow2.png "GivenNow2")![GivenNow3](./images/screenShot/givennow/givenNow3.png "GivenNow3")![GivenNow4](./images/screenShot/givennow/givenNow4.png "GivenNow4")
 
 # 대학프로젝트
 
