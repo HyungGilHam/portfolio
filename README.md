@@ -795,3 +795,30 @@
 <img src="./images/screenShot/university/university1.png" width="600">
 
 # 대외 공모전 경험
+
+### 제5회 전파통신 시제품 경진대회(카이스트) - 은상
+
+> 개발기간 : 2009.7 ~ 2009.11
+> 한림대학교 전자공학과(참여인원 5명)
+
+> 휴대전화가 오면, 블루투스 페어링된 인형이 좌우로 움직이는 시제품 개발
+
+- Technical Lead
+
+```sh
+  블루투스(bluetooth) 통신, 
+  신호 증폭 회로 설계
+  신호 보정 회로 설계
+  orcad(PCB 설계)
+  Firmware(MSP430)
+```
+
+- Participation
+
+```sh
+  신호 증폭 회로 설계
+  신호 보정 회로 설계
+  PCB 설계
+  프로그램 통합
+```
+<img src="./images/screenShot/university/university6.png" width="600">
