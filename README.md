@@ -555,7 +555,10 @@
   방명록 및 평가 모듈 제작
 ```
 <div>
-<img src="./images/screenShot/givennow/givenNow1.png" width="200"><img src="./images/screenShot/givennow/givenNow2.png" width="200"><img src="./images/screenShot/givennow/givenNow3.png" width="200"><img src="./images/screenShot/givennow/givenNow4.png" width="200">
+<img src="./images/screenShot/givennow/givenNow1.png" width="200">
+<img src="./images/screenShot/givennow/givenNow2.png" width="200">
+<img src="./images/screenShot/givennow/givenNow3.png" width="200">
+<img src="./images/screenShot/givennow/givenNow4.png" width="200">
 </div>
 
 # 대학프로젝트
