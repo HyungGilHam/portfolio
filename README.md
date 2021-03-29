@@ -43,7 +43,7 @@
   CI/CD(Gitlab, FastLine)
 ```
 
-- Attachment
+- Participation
 
 ```sh
   채팅 서비스 개발(계약대화/개인대화)
@@ -88,7 +88,7 @@
   CI/CD(Gitlab, FastLine)
 ```
 
-- Attachment
+- Participation
 
 ```sh
   채팅서비스 멘션 기능 추가
@@ -125,7 +125,7 @@
   aws(ec2, elb, route53 )
 ```
 
-- Attachment
+- Participation
 
 ```sh
   Scatter Login 제작
@@ -155,7 +155,7 @@
   Library(matlab plot)
 ```
 
-- Attachment
+- Participation
 
 ```sh
   주식캔들 제작, RSI 보조지표제작, stochastic 보조지표제작
@@ -185,7 +185,7 @@
   Dependency managment(pods)
 ```
 
-- Attachment
+- Participation
 
 ```sh
   Ebook 관리 기능(다운로드/삭제) 및 페이지 제작(내서재)
@@ -216,7 +216,7 @@
   Dependency managment(pods)
 ```
 
-- Attachment
+- Participation
 
 ```sh
   공지사항, 게시판 모듈 제작
@@ -245,7 +245,7 @@
   aws(ec2, elb, route53 )
 ```
 
-- Attachment
+- Participation
 
 ```sh
   로그인 Backend 모듈 제작
@@ -274,7 +274,7 @@
   aws(ec2, elb, route53 )
 ```
 
-- Attachment
+- Participation
 
 ```sh
   로그인 모듈 제작 제작
@@ -304,7 +304,7 @@
   aws(ec2, elb, route53 )
 ```
 
-- Attachment
+- Participation
 
 ```sh
   로그인 모듈 제작 제작
@@ -332,7 +332,7 @@
   aws(ec2, elb, route53 )
 ```
 
-- Attachment
+- Participation
 
 ```sh
   로그인 모듈 제작 제작
@@ -361,7 +361,7 @@
   aws(ec2, elb, route53 )
 ```
 
-- Attachment
+- Participation
 
 ```sh
   로그인 모듈 제작 제작
@@ -390,7 +390,7 @@
   aws(ec2, elb, route53 )
 ```
 
-- Attachment
+- Participation
 
 ```sh
   로그인 모듈 제작 제작
@@ -421,7 +421,7 @@
   aws(ec2, elb, route53 )
 ```
 
-- Attachment
+- Participation
 
 ```sh
   로그인 모듈 제작
@@ -456,7 +456,7 @@
   Library(Facebook/twitter/kakaotalk sdk, openAL, inapp)
 ```
 
-- Attachment
+- Participation
 
 ```sh
   랭킹 페이지 제작
@@ -485,7 +485,7 @@
   Library(openAL, inapp)
 ```
 
-- Attachment
+- Participation
 
 ```sh
   3d 사운드 모듈 제작
@@ -513,7 +513,7 @@
   Library(Facebook/twitter/kakaotalk sdk, inapp)
 ```
 
-- Attachment
+- Participation
 
 ```sh
   타임라인 제작
@@ -543,7 +543,7 @@
   Library(Facebook sdk, inapp, admob, Charts)
 ```
 
-- Attachment
+- Participation
 
 ```sh
   음식리스트 관리
@@ -575,7 +575,7 @@
   Library(Facebook/twitter/kakaotalk sdk, mapkit, apns)
 ```
 
-- Attachment
+- Participation
 
 ```sh
   공지사항 모듈 제작
