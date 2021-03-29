@@ -497,10 +497,10 @@
   결제 모듈 제작
 ```
 <div>
-<img src="./images/screenShot/listeningKing/ListeningKing1.png" width="200">
-<img src="./images/screenShot/listeningKing/ListeningKing2.png" width="200">
-<img src="./images/screenShot/listeningKing/ListeningKing3.png" width="200">
-<img src="./images/screenShot/listeningKing/ListeningKing4.png" width="200">
+<img src="./images/screenShot/ListeningKing/ListeningKing1.png" width="200">
+<img src="./images/screenShot/ListeningKing/ListeningKing2.png" width="200">
+<img src="./images/screenShot/ListeningKing/ListeningKing3.png" width="200">
+<img src="./images/screenShot/ListeningKing/ListeningKing4.png" width="200">
 </div>
 
 ### The Sixth Sense Zombie 게임 제작
