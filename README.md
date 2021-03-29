@@ -135,6 +135,10 @@
   스마트컨트렉트제작(Eosio.cbt)
   리얼다이스 소켓 게임서버 제작(EOS 블록 hashkey 실시간공유)
 ```
+<img src="./images/screenShot/eosgamez/eosgamez1.png" width="300">
+<img src="./images/screenShot/eosgamez/eosgamez2.png" width="300">
+<img src="./images/screenShot/eosgamez/eosgamez3.png" width="300">
+<img src="./images/screenShot/eosgamez/eosgamez4.png" width="300">
 
 ### 자동매매, 시세차익봇(Py)
 
@@ -156,10 +160,43 @@
   각 거래소 openapi 연동, Telegram openapi 연동
   매수/매도 로직제작
 ```
+<img src="./images/screenShot/trading/trading1.png" width="200">
+<img src="./images/screenShot/trading/trading2.png" width="400">
+<img src="./images/screenShot/trading/trading3.png" width="200">
 
-### Ebook iOS 앱 제작(포도원, 에로가미 전자서적)
+### Ebook iOS 앱 제작(에로가미 전자서적)
 
-> 개발기간 : 2017.08 ~ 2017.12
+> 개발기간 : 2017.11 ~ 2017.12
+> 소프트에이드(스타트업) > 외주프로젝트
+
+- Technical Lead
+
+```sh
+  iOS(Swift3)
+  Mvp pattern(RxSwift)
+  Cache(SQLite, FMDB)
+  Network(Alamofire, SwiftyJSON, Codable)
+  Library(skyepub-lib)
+  Security(CryptoSwift, AES)
+  Dependency managment(pods)
+```
+
+- Attachment
+
+```sh
+  Ebook 관리 기능(다운로드/삭제) 및 페이지 제작(내서재)
+  Ebook Viewer 제작(epub viewer 제작, 책갈피, 메모, 형광펜 등 기능적용)
+  Ebook store연결 및 javascript 처리(WebView)
+```
+
+<img src="./images/screenShot/erogami/erogami1.png" width="200">
+<img src="./images/screenShot/erogami/erogami2.png" width="200">
+<img src="./images/screenShot/erogami/erogami3.png" width="200">
+<img src="./images/screenShot/erogami/erogami4.png" width="200">
+
+### Ebook iOS 앱 제작(포도원)
+
+> 개발기간 : 2017.08 ~ 2017.10
 > 소프트에이드(스타트업) > 외주프로젝트
 
 - Technical Lead
@@ -178,13 +215,14 @@
 
 ```sh
   공지사항, 게시판 모듈 제작
-  Ebook 관리 기능(다운로드/삭제) 및 페이지 제작
+  Ebook 관리 기능(다운로드/삭제) 및 페이지 제작(내서재)
   Ebook Viewer 제작(epub viewer 제작, 책갈피, 메모, 형광펜 등 기능적용)
   Ebook store연결 및 javascript 처리(WebView)
-  각 거래소 openapi 연동, Telegram openapi 연동
-  매수/매도 로직제작
 ```
-
+<img src="./images/screenShot/podowon/podowon1.png" width="200">
+<img src="./images/screenShot/podowon/podowon2.png" width="200">
+<img src="./images/screenShot/podowon/podowon3.png" width="200">
+<img src="./images/screenShot/podowon/podowon4.png" width="200">
 ### 마루경마 예상지 웹서버 제작
 
 > 개발기간 : 2017.02 ~ 2017.6
@@ -207,6 +245,9 @@
   추천 번호 예측 Backend 모듈 제작(회귀식 사용)
   마사회결과 rss 구독 시스템 제작
 ```
+<img src="./images/screenShot/maru/maru1.png" width="300">
+<img src="./images/screenShot/maru/maru2.png" width="300">
+<img src="./images/screenShot/maru/maru3.png" width="300">
 
 ### 더비베가스 게임 웹서버 제작(소셜 카지노 게임 - 경마, 슬롯, 빙고, 바카라)
 
@@ -234,6 +275,11 @@
   게임 분석 로그 시스템 제작
 ```
 
+<img src="./images/screenShot/derbyVegas/derbyVegas1.png" width="300">
+<img src="./images/screenShot/derbyVegas/derbyVegas2.png" width="300">
+<img src="./images/screenShot/derbyVegas/derbyVegas3.png" width="300">
+
+
 ### 태평왕전기 게임 웹서버 제작
 
 > 개발기간 : 2015.10 ~ 2016.1
@@ -256,6 +302,9 @@
   게임 플레이 모듈 제작
   게임 레벨링 리소스 업데이트 시스템 제작
 ```
+<img src="./images/screenShot/tepyung/tepyung1.png" width="300">
+<img src="./images/screenShot/tepyung/tepyung2.png" width="300">
+<img src="./images/screenShot/tepyung/tepyung3.png" width="300">
 
 ### 피트인레이싱 게임 웹서버 제작
 
@@ -280,6 +329,8 @@
   게임 레벨링 리소스 업데이트 시스템 제작
   랭킹 시스템 제작
 ```
+<img src="./images/screenShot/fitinracing/pitinracing2.png" width="300">
+<img src="./images/screenShot/fitinracing/pitinracing3.png" width="300">
 
 ### 마레다이브 게임 웹서버 제작
 
@@ -304,6 +355,9 @@
   게임 레벨링 리소스 업데이트 시스템 제작
   랭킹 시스템 제작
 ```
+<img src="./images/screenShot/divedive/divedive1.png" width="300">
+<img src="./images/screenShot/divedive/divedive2.png" width="300">
+<img src="./images/screenShot/divedive/divedive3.png" width="300">
 
 ### 모두의 빙고 게임 웹서버 제작
 
@@ -329,6 +383,10 @@
   랭킹 시스템 제작
   게임플레이 모듈 제작
 ```
+<img src="./images/screenShot/bingo/bingo1.png" width="200">
+<img src="./images/screenShot/bingo/bingo2.png" width="200">
+<img src="./images/screenShot/bingo/bingo3.png" width="200">
+<img src="./images/screenShot/bingo/bingo4.png" width="200">
 
 ### 에픽슬롯사가 게임 웹서버 제작
 
@@ -356,6 +414,11 @@
   리소스 및 스크립트 업데이트 모듈 제작
   자바스크립트 레벨링 tools 제작
 ```
+<img src="./images/screenShot/epicslotsaga/epicslotsaga1.png" width="200">
+<img src="./images/screenShot/epicslotsaga/epicslotsaga2.png" width="200">
+<img src="./images/screenShot/epicslotsaga/epicslotsaga3.png" width="200">
+<img src="./images/screenShot/epicslotsaga/epicslotsaga4.png" width="200">
+<img src="./images/screenShot/epicslotsaga/epicslotsaga5.png" width="200">
 
 ### 듣기왕 iOS 모바일 앱 제작
 
@@ -380,6 +443,10 @@
   영어공부 플레이어 제작
   결제 모듈 제작
 ```
+<img src="./images/screenShot/listeningKing/ListeningKing1.png" width="200">
+<img src="./images/screenShot/listeningKing/ListeningKing2.png" width="200">
+<img src="./images/screenShot/listeningKing/ListeningKing3.png" width="200">
+<img src="./images/screenShot/listeningKing/ListeningKing4.png" width="200">
 
 ### The Sixth Sense Zombie 게임 제작
 
@@ -402,6 +469,10 @@
   게임 플레이 모듈 제작
   결제 모듈 제작
 ```
+<img src="./images/screenShot/sixsense/sixsense1.png" width="200">
+<img src="./images/screenShot/sixsense/sixsense2.png" width="200">
+<img src="./images/screenShot/sixsense/sixsense3.png" width="200">
+<img src="./images/screenShot/sixsense/sixsense4.png" width="200">
 
 ### 에브리 앱 제작(Rss, 게시판 구독앱)
 
@@ -425,6 +496,10 @@
   채널 구독 센터 모듈 제작(전체구독, 키워드구독)
   알림채널 모듈 제작
 ```
+<img src="./images/screenShot/evree/evree1.png" width="200">
+<img src="./images/screenShot/evree/evree2.png" width="200">
+<img src="./images/screenShot/evree/evree3.png" width="200">
+<img src="./images/screenShot/evree/evree4.png" width="200">
 
 ### 다이어트 다이어리 iOS앱 제작
 
@@ -451,6 +526,11 @@
   타입라인 모듈 제작
   달력 모듈 제작
 ```
+<img src="./images/screenShot/dietdiary/dietdiary1.png" width="200">
+<img src="./images/screenShot/dietdiary/dietdiary2.png" width="200">
+<img src="./images/screenShot/dietdiary/dietdiary3.png" width="200">
+<img src="./images/screenShot/dietdiary/dietdiary4.png" width="200">
+
 
 ### 기븐나우 iOS앱 제작
 
@@ -477,11 +557,10 @@
   Push notification 기반 채팅 모듈 제작
   방명록 및 평가 모듈 제작
 ```
-
-![GivenNow1](./images/screenShot/givennow/givenNow1.png =150x)
-![GivenNow2](./images/screenShot/givennow/givenNow2.png =150x)
-![GivenNow3](./images/screenShot/givennow/givenNow3.png =150x)
-![GivenNow4](./images/screenShot/givennow/givenNow4.png =150x)
+<img src="./images/screenShot/givennow/givenNow1.png" width="200">
+<img src="./images/screenShot/givennow/givenNow2.png" width="200">
+<img src="./images/screenShot/givennow/givenNow3.png" width="200">
+<img src="./images/screenShot/givennow/givenNow4.png" width="200">
 
 # 대학프로젝트
 
