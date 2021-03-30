@@ -669,9 +669,15 @@
 - Technical Lead
 
 ```sh
-  회로설계(전원회로, 히터팅회로, 온도제어회로)
-  Firmware(AVR128)
+  브러쉬리스 모터 제어
+  브러쉬리스 모터 전원회로
+  센서 제어(자이로(2개), 가속도, 초음파, 온도, 고도)
+  Firmware(AVR)
   ORCad
+  프레임 제작(카본)
+  모터 추력 테스트
+  FM 송수신기 제어
+  지그비(Zigbee) 통신
 ```
 
 - Participation
@@ -700,7 +706,7 @@
   스탭 모터 제어
   카메라 모듈 제어
   MFC(C++)
-  Firmware(AVR128)
+  Firmware(AVR)
   ORCad
 ```
 
