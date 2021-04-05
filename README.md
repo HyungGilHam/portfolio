@@ -639,7 +639,7 @@
   히터 제어 회로 설계(AC제어)
   온도 센서 제어 회로 설계
   LED 및 비프음 제어
-  Firmware(AVR)
+  C Firmware(AVR/Atmega)
   orcad(PCB 설계)
 ```
 
@@ -651,7 +651,7 @@
   히터 제어 회로 설계
   온도 센서 제어 회로 설계
   LED 및 비프음 제어
-  Firmware(AVR)
+  C Firmware(AVR/Atmega32)
   orcad(PCB 설계)
 ```
 <div>
@@ -672,22 +672,23 @@
   브러쉬리스 모터 제어
   브러쉬리스 모터 전원회로
   센서 제어(자이로(2개), 가속도, 초음파, 온도, 고도)
-  Firmware(AVR)
-  ORCad
+  C Firmware(AVR/Atmega128)
   프레임 제작(카본)
   모터 추력 테스트
   FM 송수신기 제어
   지그비(Zigbee) 통신
+  SPI 통신(모터 컨트롤러와 통신)
+  Uart 통신(zigbee와 통신)
 ```
 
 - Participation
 
 ```sh
-  브로쉬리스 모터 컨트롤(p제어)
-  자이로 및 가속도 센서 칼만필터 사용 병합
-  각도 보정 알고리즘(5자유도 각도 출력)
-  프로그램 통합
+  브로쉬리스 모터 제어(PI)
+  자이로 및 가속도 센서 칼만필터 사용 병합(5자유도 각도 출력)
+  지그비(Zigbee) 통신(상태 정보 전달)
   제어 회로 설계
+  프로그램 통합
 ```
 
 <img src="./images/screenShot/university/university5.png" width="600">
@@ -700,13 +701,14 @@
 - Technical Lead
 
 ```sh
-  지그비(zigbee) 통신, 
+  지그비(zigbee) 통신
+  Uart 통신
   TFT-LCD Control
   센서(가속도, 초음파) 제어
   스탭 모터 제어
   카메라 모듈 제어
   MFC(C++)
-  Firmware(AVR)
+  C Firmware(AVR/Atmega128)
   ORCad
 ```
 
@@ -716,7 +718,7 @@
   가속도 센서 제어
   초음파 센서 제어
   카메라 모듈 제어
-  스탭 모터 제어
+  스탭 모터 P 제어
   지그비(Zigbee) 통신
   지그비 RSSI + 가속도센서 실내 위치 찾기
   프로그램 통합
@@ -732,11 +734,12 @@
 - Technical Lead
 
 ```sh
-  지그비(zigbee) 통신, 
+  지그비(zigbee) 통신
+  Uart 통신
   ORCad(PCB 설계)
   센서(SPO2) 제어
   전원회로 설계
-  Firmware(AVR128)
+  C Firmware(AVR/Atmega128)
 ```
 
 - Participation
@@ -757,12 +760,13 @@
 - Technical Lead
 
 ```sh
-  지그비(zigbee) 통신, 
+  지그비(zigbee) 통신
+  Uart 통신
   TFT-LCD 제어
   가속도 센서 제어
   스탭 모터 제어
   카메라 모듈 제어
-  Firmware(AVR128)
+  C Firmware(AVR/Atmega128)
 
 ```
 
@@ -770,6 +774,7 @@
 
 ```sh
   지그비(Zigbee) 통신
+  Uart 통신
   가속도 센서 제어
   TFT-LCD 제어
   카메라 모듈 제어
@@ -785,10 +790,11 @@
 - Technical Lead
 
 ```sh
-  지그비(zigbee) 통신, 
+  지그비(zigbee) 통신
+  Uart 통신
   캐릭터LCD 제어
   SPO2 센서 제어
-  Firmware(AVR128)
+  C Firmware(AVR/Atmega128)
 ```
 
 - Participation
@@ -812,7 +818,8 @@
 - Technical Lead
 
 ```sh
-  블루투스(bluetooth) 통신, 
+  블루투스(bluetooth) 통신
+  Uart 통신
   신호 증폭 회로 설계
   신호 보정 회로 설계
   orcad(PCB 설계)
