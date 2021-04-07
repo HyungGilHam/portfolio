@@ -78,6 +78,37 @@
 <img src="./images/screenShot/wehagoOne/wehagoOne_4.png" width="150">
 </div>
 
+### 위하고 Sign
+
+> 개발기간 : 2020.02 ~ 2021.04
+> (주)더존비즈온 > 모바일개발팀(팀장)
+
+- Technical Lead
+
+```sh
+  React-Native(TypeScript, junit, Objective-C, Java)
+  Redux pattern(redux-observable)
+  Security(Proguard, Rooting guard, RSA, AES)
+  Dependency managment(yarn, pods, gradle, python script )
+  CI/CD(Gitlab, FastLine)
+```
+
+- Participation
+
+```sh
+  개인키 관리 모듈 개발
+  본인부인방지 모듈 제작(NICE 인증, PIN, FIDO)
+  위하고 공통 로그인 모듈 제작
+  메인 페이지 제작
+```
+
+<div>
+<img src="./images/screenShot/wehagoSign/wehagosign1.png" width="150">
+<img src="./images/screenShot/wehagoSign/wehagosign2.png" width="150">
+<img src="./images/screenShot/wehagoSign/wehagosign3.png" width="150">
+<img src="./images/screenShot/wehagoSign/wehagosign4.png" width="150">
+</div>
+
 ### 위하고 iOS 앱(B to B 협업) 유지보수/고도화
 
 > 개발기간 : 2019.05 ~ 진행중
