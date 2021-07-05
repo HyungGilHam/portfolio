@@ -135,7 +135,6 @@
   조직도 서비스 캐싱처리(SQLite)
   수임처관리 서비스 신규 제작
   청구서 관리 서비스 신규 제작
-  카드매출 서비스 신규 제작
   로컬라이징처리(영어, 일본어)
   276개의 레거시 QA Jira 이슈처리
 ```
@@ -154,14 +153,6 @@
 <img src="./images/screenShot/wehago/wehago4.png" width="150">
 <img src="./images/screenShot/wehago/wehago5.png" width="150">
 </div>
-
-##### 카드매출관리
-
-<div>
-<img src="./images/screenShot/wehago/wehagoedge1.png" width="150">
-<img src="./images/screenShot/wehago/wehagoedge2.png" width="150">
-<img src="./images/screenShot/wehago/wehagoedge3.png" width="150">
-<img src="./images/screenShot/wehago/wehagoedge4.png" width="150"></div>
 
 ##### 수임처관리
 
