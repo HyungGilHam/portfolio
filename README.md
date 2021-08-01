@@ -40,7 +40,7 @@
   Cache(SQLite, Typeorm)
   Security(Proguard, Rooting guard, RSA, AES)
   Dependency managment(yarn, pods, gradle, python script )
-  CI/CD(Gitlab, FastLine)
+  CI/CD(Gitlab, Fastlane)
 ```
 
 - Participation
@@ -90,7 +90,7 @@
   Redux pattern(redux-observable)
   Security(Proguard, Rooting guard, RSA, AES)
   Dependency managment(yarn, pods, gradle, python script )
-  CI/CD(Gitlab, FastLine)
+  CI/CD(Gitlab, FastLane)
 ```
 
 - Participation
@@ -123,7 +123,7 @@
   Network(Alamofire, SwiftyJSON, Codable, CocoaMqtt)
   Security(CryptoSwift, RSA, AES)
   Dependency managment(pods)
-  CI/CD(Gitlab, FastLine)
+  CI/CD(Gitlab, FastLane)
 ```
 
 - Participation
@@ -205,7 +205,7 @@
 
 ```sh
   GUI(window, ptyhon3, PyQt5)
-  Network(exchange openApi(빗썸, 고팍스, 업비트, bitmax), Telegram openApi)
+  Network(exchange openApi(빗썸, 고팍스, 업비트, bitmex), Telegram openApi)
   Library(matlab plot)
 ```
 
