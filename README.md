@@ -77,7 +77,7 @@
 <img src="./images/screenShot/wehagoOne/wehagoOne_5.png" width="150">
 <img src="./images/screenShot/wehagoOne/wehagoOne_6.png" width="150">
 <img src="./images/screenShot/wehagoOne/wehagoOne_12.png" width="150">
-<img src="./images/screenShot/wehagoOne/wehagoOne_10.png" width="150">
+<img src="./images/screenShot/wehagoOne/wehagoOne_13.png" width="150">
 <img src="./images/screenShot/wehagoOne/wehagoOne_11.png" width="150">
 
 </div>
