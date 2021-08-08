@@ -25,7 +25,64 @@
   - Unity(C#), Cocos2dx(C++) 네트워크 모듈 제작
   - 펌웨어(AVR/MSP430)/회로설계(OrCad)
 
+# 관리
+
+
+- Project Lead
+
+```sh
+  개발프로세스: JIRA를 통한 이력 및 일정관리
+  문서화: Confluence(WiKi) 활용
+  Communication: 위하고(더존플렛폼)를 통한 팀 대화, Slack을 통한 외부 업체 대화
+  보고서: 일일 보고서, 주간 보고서, 월간 보고서
+  회의: 업무협의회의(기획팀, 디자인팀, 백엔드팀, 데브옵스팀), 월간 일정 회의
+```
+
+- People Managment
+
+```sh
+  React-Native/Redux pattern/Redux-observable 교육
+  Reactive Progreamming 교육
+  MVVM pattern 교육
+  정기적 conferrence 운영
+```
+
 # 프로젝트
+
+### 위하고원 고도화
+> 개발기간 : 2021.06 ~ 현재
+> (주)더존비즈온 > 모바일개발팀(팀장)
+
+- Technical Lead
+
+```sh
+  React-Native(TypeScript, junit, Objective-C, Java)
+  Redux pattern(redux-observable)
+  Cache(SQLite, Typeorm)
+  Security(Proguard, Rooting guard, RSA, AES)
+  Dependency managment(yarn, pods, gradle, python script )
+  CI/CD(Gitlab, Fastlane)
+```
+
+- Participation
+
+```sh
+  채팅 서비스 고도화 개발(댓글, 리액션, 커스텀 이모지)
+  아이콘루프 DID SDK연동(NativeModules)
+  카카오 API 연동
+  SNS 입력 도구(이미지 편집, 위치tag, tag)
+```
+
+<div>
+<img src="./images/screenShot/wehagoOne/wehagoOne_7.png" width="150">
+<img src="./images/screenShot/wehagoOne/wehagoOne_5.png" width="150">
+<img src="./images/screenShot/wehagoOne/wehagoOne_6.png" width="150">
+<img src="./images/screenShot/wehagoOne/wehagoOne_12.png" width="150">
+<img src="./images/screenShot/wehagoOne/wehagoOne_10.png" width="150">
+<img src="./images/screenShot/wehagoOne/wehagoOne_11.png" width="150">
+
+</div>
+
 
 ### 위하고원(블록체인 간편계약 모바일 앱)
 
@@ -53,23 +110,6 @@
   본인부인방지 모듈 제작(NICE 인증, PIN, FIDO)
 ```
 
-- Project Lead
-
-```sh
-  개발프로세스: JIRA를 통한 이력 및 일정관리
-  문서화: Confluence(WiKi) 활용
-  Communication: 위하고(더존플렛폼)를 통한 팀 대화, Slack을 통한 외부 업체 대화
-  보고서: 일일 보고서, 주간 보고서, 월간 보고서
-  회의: 업무협의회의(기획팀, 디자인팀, 백엔드팀, 데브옵스팀), 월간 일정 회의
-```
-
-- People Managment
-
-```sh
-  React-Native/Redux pattern/Redux-observable 교육
-  Reactive Progreamming 교육
-  정기적 conferrence 운영
-```
 <div>
 <img src="./images/screenShot/wehagoOne/wehagoOne_0.png" width="150">
 <img src="./images/screenShot/wehagoOne/wehagoOne_1.png" width="150">
