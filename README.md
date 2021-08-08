@@ -27,7 +27,6 @@
 
 # 관리
 
-
 - Project Lead
 
 ```sh
@@ -49,8 +48,8 @@
 
 # 프로젝트
 
-### 위하고원 고도화
-> 개발기간 : 2021.06 ~ 현재
+### 위하고원 고도화 및 나야나(강원도 플렛폼)
+> 개발기간 : 2021.06 ~ 진행중
 > (주)더존비즈온 > 모바일개발팀(팀장)
 
 - Technical Lead
@@ -59,8 +58,7 @@
   React-Native(TypeScript, junit, Objective-C, Java)
   Redux pattern(redux-observable)
   Cache(SQLite, Typeorm)
-  Security(Proguard, Rooting guard, RSA, AES)
-  Dependency managment(yarn, pods, gradle, python script )
+  Dependency managment(yarn, pods, gradle, python script)
   CI/CD(Gitlab, Fastlane)
 ```
 
@@ -68,9 +66,10 @@
 
 ```sh
   채팅 서비스 고도화 개발(댓글, 리액션, 커스텀 이모지)
-  아이콘루프 DID SDK연동(NativeModules)
+  아이콘루프 DID SDK연동
   카카오 API 연동
   SNS 입력 도구(이미지 편집, 위치tag, tag)
+  Android/iOS 타겟 분리 작업 및 build script 제작
 ```
 
 <div>
