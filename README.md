@@ -49,6 +49,7 @@
 # 프로젝트
 
 ### 위하고원 기반의 나야나(강원도 플렛폼) 제작 및 고도화
+
 > 개발기간 : 2021.06 ~ 진행중
 > (주)더존비즈온 > 모바일개발팀(팀장)
 
@@ -81,7 +82,6 @@
 <img src="./images/screenShot/wehagoOne/wehagoOne_11.png" width="150">
 
 </div>
-
 
 ### 위하고원(블록체인 간편계약 모바일 앱)
 
@@ -186,6 +186,7 @@
 ```
 
 ##### 메인/위톡/조직도/거래처
+
 <div>
 <img src="./images/screenShot/wehago/wehago1.png" width="150">
 <img src="./images/screenShot/wehago/wehago2.png" width="150">
@@ -228,6 +229,7 @@
   스마트컨트렉트제작(Eosio.cbt)
   리얼다이스 소켓 게임서버 제작(EOS 블록 hashkey 실시간공유)
 ```
+
 <div>
 <img src="./images/screenShot/eosgamez/eosgamez1.png" width="250">
 <img src="./images/screenShot/eosgamez/eosgamez2.png" width="250">
@@ -255,6 +257,7 @@
   각 거래소 openapi 연동, Telegram openapi 연동
   매수/매도 로직제작
 ```
+
 <div>
 <img src="./images/screenShot/trading/trading1.png" width="200">
 <img src="./images/screenShot/trading/trading2.png" width="300">
@@ -270,7 +273,7 @@
 
 ```sh
   iOS(Swift3)
-  Mvp pattern(RxSwift)
+  Mvp pattern
   Cache(SQLite, FMDB)
   Network(Alamofire, SwiftyJSON, Codable)
   Library(skyepub-lib)
@@ -285,6 +288,7 @@
   Ebook Viewer 제작(epub viewer 제작, 책갈피, 메모, 형광펜 등 기능적용)
   Ebook store연결 및 javascript 처리(WebView)
 ```
+
 <div>
 <img src="./images/screenShot/erogami/erogami1.png" width="200">
 <img src="./images/screenShot/erogami/erogami2.png" width="200">
@@ -301,7 +305,7 @@
 
 ```sh
   iOS(Swift3)
-  Mvp pattern(RxSwift)
+  Mvp pattern
   Cache(SQLite, FMDB)
   Network(Alamofire, SwiftyJSON, Codable)
   Library(skyepub-lib)
@@ -317,6 +321,7 @@
   Ebook Viewer 제작(epub viewer 제작, 책갈피, 메모, 형광펜 등 기능적용)
   Ebook store연결 및 javascript 처리(WebView)
 ```
+
 <div>
 <img src="./images/screenShot/podowon/podowon1.png" width="200">
 <img src="./images/screenShot/podowon/podowon2.png" width="200">
@@ -346,6 +351,7 @@
   추천 번호 예측 Backend 모듈 제작(회귀식 사용)
   마사회결과 rss 구독 시스템 제작
 ```
+
 <div>
 <img src="./images/screenShot/maru/maru1.png" width="250">
 <img src="./images/screenShot/maru/maru2.png" width="250">
@@ -377,6 +383,7 @@
   랭킹 시스템 제작
   게임 분석 로그 시스템 제작
 ```
+
 <div>
 <img src="./images/screenShot/derbyVegas/derbyVegas1.png" width="250">
 <img src="./images/screenShot/derbyVegas/derbyVegas2.png" width="250">
@@ -405,6 +412,7 @@
   게임 플레이 모듈 제작
   게임 레벨링 리소스 업데이트 시스템 제작
 ```
+
 <div>
 <img src="./images/screenShot/tepyung/tepyung1.png" width="250">
 <img src="./images/screenShot/tepyung/tepyung2.png" width="250">
@@ -434,6 +442,7 @@
   게임 레벨링 리소스 업데이트 시스템 제작
   랭킹 시스템 제작
 ```
+
 <div>
 <img src="./images/screenShot/fitinracing/pitinracing1.png" width="250">
 <img src="./images/screenShot/fitinracing/pitinracing2.png" width="250">
@@ -463,6 +472,7 @@
   게임 레벨링 리소스 업데이트 시스템 제작
   랭킹 시스템 제작
 ```
+
 <div>
 <img src="./images/screenShot/divedive/divedive1.png" width="250">
 <img src="./images/screenShot/divedive/divedive2.png" width="250">
@@ -493,6 +503,7 @@
   랭킹 시스템 제작
   게임플레이 모듈 제작
 ```
+
 <div>
 <img src="./images/screenShot/bingo/bingo1.png" width="200">
 <img src="./images/screenShot/bingo/bingo2.png" width="200">
@@ -526,6 +537,7 @@
   리소스 및 스크립트 업데이트 모듈 제작
   자바스크립트 레벨링 tools 제작
 ```
+
 <div>
 <!-- <img src="./images/screenShot/epicslotsaga/epicslotsaga1.png" width="200"> -->
 <img src="./images/screenShot/epicslotsaga/epicslotsaga2.png" width="200">
@@ -557,6 +569,7 @@
   영어공부 플레이어 제작
   결제 모듈 제작
 ```
+
 <div>
 <img src="./images/screenShot/ListeningKing/ListeningKing1.png" width="200">
 <img src="./images/screenShot/ListeningKing/ListeningKing2.png" width="200">
@@ -585,6 +598,7 @@
   게임 플레이 모듈 제작
   결제 모듈 제작
 ```
+
 <div>
 <img src="./images/screenShot/sixsense/sixsense1.png" width="200">
 <img src="./images/screenShot/sixsense/sixsense2.png" width="200">
@@ -614,6 +628,7 @@
   채널 구독 센터 모듈 제작(전체구독, 키워드구독)
   알림채널 모듈 제작
 ```
+
 <div>
 <img src="./images/screenShot/evree/evree1.png" width="200">
 <img src="./images/screenShot/evree/evree2.png" width="200">
@@ -646,6 +661,7 @@
   타입라인 모듈 제작
   달력 모듈 제작
 ```
+
 <div>
 <img src="./images/screenShot/dietdiary/dietdiary1.png" width="200">
 <img src="./images/screenShot/dietdiary/dietdiary2.png" width="200">
@@ -678,10 +694,10 @@
   Push notification 기반 채팅 모듈 제작
   방명록 및 평가 모듈 제작
 ```
+
 <div>
 <img src="./images/screenShot/givennow/givenNow1.png" width="200">
 <img src="./images/screenShot/givennow/givenNow2.png" width="200">
 <img src="./images/screenShot/givennow/givenNow3.png" width="200">
 <img src="./images/screenShot/givennow/givenNow4.png" width="200">
 </div>
-
