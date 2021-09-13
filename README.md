@@ -723,3 +723,139 @@
 <img src="./images/screenShot/jmw/jmw3.jpeg" width="250">
   <img src="./images/screenShot/jmw/jmw4.jpeg" width="250">
 </div>
+
+# 대학프로젝트
+### 쿼드 콥터 ver1.0
+> 개발기간 : 2008.2 ~ 2009.7
+> 한림대학교 전자공학과(참여인원 7명)
+
+- Technical Lead
+
+```sh
+  회로설계(전원회로, 히터팅회로, 온도제어회로)
+  Firmware(AVR128)
+  ORCad
+```
+
+- Participation
+
+```sh
+  브로쉬리스 모터 컨트롤(p제어)
+  자이로 및 가속도 센서 칼만필터 사용 병합
+  각도 보정 알고리즘(5자유도 각도 출력)
+  프로그램 통합
+  제어 회로 설계
+```
+
+<img src="./images/screenShot/university/university5.png" width="600">
+
+### U.V.G (무인 자동차 ver2.0)
+
+> 개발기간 : 2008.11 ~ 2009.2
+> 한림대학교 전자공학과(참여인원 2명)
+
+- Technical Lead
+
+```sh
+  지그비(zigbee) 통신, 
+  TFT-LCD Control
+  센서(가속도, 초음파) 제어
+  스탭 모터 제어
+  카메라 모듈 제어
+  MFC(C++)
+  Firmware(AVR128)
+  ORCad
+```
+
+- Participation
+
+```sh
+  가속도 센서 제어
+  초음파 센서 제어
+  카메라 모듈 제어
+  스탭 모터 제어
+  지그비(Zigbee) 통신
+  지그비 RSSI + 가속도센서 실내 위치 찾기
+  프로그램 통합
+  제어 회로 설계
+```
+<img src="./images/screenShot/university/university4.png" width="600">
+
+### Heart Bit(SPO2) ver 2.0
+
+> 개발기간 : 2008.9 ~ 2008.11
+> 한림대학교 전자공학과(참여인원 8명)
+
+- Technical Lead
+
+```sh
+  지그비(zigbee) 통신, 
+  ORCad(PCB 설계)
+  센서(SPO2) 제어
+  전원회로 설계
+  Firmware(AVR128)
+```
+
+- Participation
+
+```sh
+  지그비(Zigbee) 통신
+  프로그램 통합
+  전원 회로 설계
+```
+<img src="./images/screenShot/university/university3.png" width="600">
+
+
+### U.V.G(무인 자동차 ver 1.0)
+
+> 개발기간 : 2008.6 ~ 2008.10
+> 한림대학교 전자공학과(참여인원 2명)
+
+- Technical Lead
+
+```sh
+  지그비(zigbee) 통신, 
+  TFT-LCD 제어
+  가속도 센서 제어
+  스탭 모터 제어
+  카메라 모듈 제어
+  Firmware(AVR128)
+
+```
+
+- Participation
+
+```sh
+  지그비(Zigbee) 통신
+  가속도 센서 제어
+  TFT-LCD 제어
+  카메라 모듈 제어
+  프로그램 통합
+```
+<img src="./images/screenShot/university/university2.png" width="600">
+
+### Heart Bit(SPO2) ver 1.0
+
+> 개발기간 : 2008.3 ~ 2008.6
+> 한림대학교 전자공학과(참여인원 7명)
+
+- Technical Lead
+
+```sh
+  지그비(zigbee) 통신, 
+  캐릭터LCD 제어
+  SPO2 센서 제어
+  Firmware(AVR128)
+```
+
+- Participation
+
+```sh
+  지그비(Zigbee) 통신
+  캐릭터 LCD 제어
+  프로그램 통합
+```
+<img src="./images/screenShot/university/university1.png" width="600">
+
+# 대외 공모전 경험
+
