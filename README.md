@@ -701,3 +701,24 @@
 <img src="./images/screenShot/givennow/givenNow3.png" width="200">
 <img src="./images/screenShot/givennow/givenNow4.png" width="200">
 </div>
+
+### W80 W50 W10 헤어아이론 개발 (JMW)
+
+> 개발기간 : 2010.1 ~ 2011.2
+> 기화정밀(연구원)
+
+- Technical Lead
+
+```sh
+  DC 전원회로 설계
+  AC 전원회로 설계
+  히터 제어 및 회로 설계(AC제어)
+  온도 센서 제어 및 회로 설계
+  LED 및 비프음 제어
+  Firmware C(AVR/ATmega32)
+  orcad(PCB 설계)
+```
+<div>
+<img src="./images/screenShot/jmw/jmw1.jpeg" width="300">
+<img src="./images/screenShot/jmw/jmw2.jpeg" width="300">
+</div>
