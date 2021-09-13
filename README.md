@@ -719,6 +719,7 @@
   orcad(PCB 설계)
 ```
 <div>
-<img src="./images/screenShot/jmw/jmw1.jpeg" width="300">
-<img src="./images/screenShot/jmw/jmw2.jpeg" width="300">
+<img src="./images/screenShot/jmw/jmw2.jpeg" width="250">
+<img src="./images/screenShot/jmw/jmw3.jpeg" width="250">
+  <img src="./images/screenShot/jmw/jmw4.jpeg" width="250">
 </div>
